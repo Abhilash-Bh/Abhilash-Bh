@@ -1,6 +1,14 @@
-# 💫 About Me:
-# 👋 Hey, I'm Abhilash Bhunia!<br><br>🎓 MCA Student | 🤖 AI & GenAI Enthusiast | 📊 Data Science & Analytics<br><br>💡 Passionate about turning data into insights and building intelligent AI-powered solutions.<br><br>- 🔭 **Currently Working On:** Generative AI, RAG Applications, and Agentic AI 🤖<br>- 🌱 **Currently Learning:** LLMs, AI Agents, Machine Learning, and AI Automation ⚡<br>- 💻 **Technical Skills:** Python, SQL, Pandas, NumPy, Power BI, Tableau, Flask<br>- 🧠 **AI & ML:** Deep Learning, NLP, LangChain, RAG, Vector Databases, and LLMs<br>- 🛠️ **Automation:** Exploring n8n and AI-powered workflows<br>- 📈 **Interests:** Data Analytics, AI Engineering, and Building Real-World Projects<br>- 🎯 **Goal:** Build innovative AI products and become an entrepreneur 🚀<br>- 🤝 **Open to:** Collaborations, Internships, and Exciting AI Projects<br><br>
+## 💫 About Me
 
+👋 Hi, I'm **Abhilash Bhunia** — MCA Student & AI Enthusiast 🤖
+
+💻 Exploring **Generative AI, Agentic AI, Data Science & Automation**.
+
+- 🔭 Working on **LLMs, RAG & AI Agents**
+- 🌱 Learning **Machine Learning & AI Automation**
+- 🛠️ Skills: Python, SQL, Pandas, NumPy, Power BI, LangChain
+- 🎯 Goal: Build innovative AI products 🚀
+- 🤝 Open to collaborations and opportunities
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhilashbhunia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhilash-bhunia/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhunia.abhilash10@gmail.com) 
